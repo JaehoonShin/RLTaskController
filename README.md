@@ -17,3 +17,12 @@ This work was supported by Institute for Information & communications Technology
 # Potential problems
 1. The display screen works incorrectly
   - Modify 'whichScreen' in the SIMUL_arbiteration_fmri_rpe.m
+
+# papers
+1.Shin, Jae Hoon, et al. "Designing Model-Based and Model-Free Reinforcement Learning Tasks without Human Guidance." 33rd Conference on Neural Information Processing Systems (NeurIPS 2019). Neural Information Processing Systems Foundation, 2019.
+2.Shin, Jae Hoon, et al. "Deep Interaction between Reinforcement Learning Algorithms and Human Reinforcement Learning." 2020 한국인공지능학회 하계학술대회. (사) 한국인공지능학회, 2020
+3.Shin, Jae Hoon, et al. "Deep Interaction between Reinforcement Learning Algorithms and Human Reinforcement Learning."  FROM NEUROSCIENCE TO ARTIFICIALLY INTELLIGENT SYSTEMS (NAISys), 2020.
+4.Shin, Jae Hoon, et al. "In silico manipulation of human cortical computation underlying goal-directed learning." 35th Conference on Neural Information Processing Systems (NeurIPS 2021). Neural Information Processing Systems Foundation, 2021.
+
+# references
+1. Lee, Sang Wan, Shinsuke Shimojo, and John P. O’Doherty. "Neural computations underlying arbitration between model-based and model-free learning." Neuron 81.3 (2014): 687-699.
