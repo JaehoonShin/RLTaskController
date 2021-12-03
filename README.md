@@ -1,3 +1,7 @@
+MIT License
+[![DOI](https://zenodo.org/badge/433284388.svg)](https://zenodo.org/badge/latestdoi/433284388)
+
+
 # RLTaskController_human
 
 This work was supported by Institute for Information & communications Technology Promotion(IITP) grant funded by the Korea government(MSIT) (No.2019-0-01371, Development of brain-inspired AI with human-like intelligence) and Samsung Research Funding Center of Samsung Electronics under Project Number SRFC-TC1603-52.
